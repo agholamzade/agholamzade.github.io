@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Starting My Master Project With Dr. Noor Sajid and Prof. Peter Dayan at MPI for Biological Cybernetics. 
+Starting my master’s project with Dr. Noor Sajid and Prof. Peter Dayan at the MPI for Biological Cybernetics.
