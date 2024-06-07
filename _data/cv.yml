@@ -55,6 +55,11 @@
 - title: Teaching Assistantship
   type: time_table
   contents:
+    - title: Systems Vision Science Summer School 
+      institution: Max Planck Institute for Biological Cybernetics
+      location: Tübingen, Germany
+      year: 2024
+
     - title: Fundamentals of Genetics
       institution: Sharif University of Technology, Prof. Shohreh Mashayekhan
       location: Tehran, Iran
@@ -70,10 +75,28 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2024
+      items: 
+        - Awarded one-year PhD funding by <a href="https://imprs-mmfd.tuebingen.mpg.de/"> IMPRS-MMFD program </a>. 
     - year: 2022
       items: 
         - Selected as a member of the International Max Planck Research School for the Mechanisms of Mental Function and Dysfunction (5-year MSc/Ph.D. program).
     - year: 2019
       items: 
         - 3rd place of First National EEG Data Analysis Competition with Clinical Applications organized by Iran’s National Brain Mapping Lab(NBML)
+
+
+- title: Services
+  type: time_table
+  contents:
+    - year: 2024
+      items: 
+        - Part of organizing team for Systems Vision Science Virtual Symposium
+    - year: 2021
+      items: 
+        - Director of Sharif Brain and Mind Webinar
+    - year: 2019 - 2020
+      items: 
+        -  Membership in the central council of Sharif Cognitive Sciences Community, Shenasa.
+
 
