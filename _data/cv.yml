@@ -2,96 +2,78 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Ali Gholamzadeh
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: M.Sc in Neural Information Processing
+      institution: Universität Tübingen, MPI for Biological Cybernetics
+      location: Tübingen, Germany
+      year: 2022 - 2024
+
+    - title: B.Sc in  Computer Science
+      institution: Sharif University of Technology
+      location: Tehran, Iran
+      year: 2018 - 2022
+
+    - title: B.Sc in Chemical Engineering
+      institution: Sharif University of Technology
+      location: Tehran, Iran
+      year: 2016 - 2022
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Decisons via Optimal Transport
+      institution: MPI for Biological Cybernetics, Dr. Noor Sajid and Prof. Peter Dayan
+      location: Tübingen, Germany
+      year: 2024 - present
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Measure of Meta-Cognitive Sensitivity in Value-Based Decision-Making
+      institution: MPI for Biological Cybernetics, Dr. Sara Ershadmanesh and Prof. Peter Dayan
+      location: Tübingen, Germany
+      year: 2022 - 2024
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+    - title: Evaluating Learning Objectives in Visual Perceptual Learning Using Deep Neural Networks
+      institution: Université de Montréal, Prof. Shahab Bakhtiari
+      location: Montréal, Canada
+      year: 2023 - 2024
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Rate-Distortion Theory in Reinforcement Learning
+      institution: University of Tübingen, Prof. Charley Wu
+      location: Tübingen, Germany
+      year: 2023
+    
+    - title: Data Engineer
+      institution: Hesaba, Data science Technologies Company
+      location: Tehran, Iran
+      year: 2020 - 2022
+      description: 
+        - Developing streaming pipelines for storing real-time data in databases and object stores.
 
-- title: Open Source Projects
+- title: Teaching Assistantship
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Fundamentals of Genetics
+      institution: Sharif University of Technology, Prof. Shohreh Mashayekhan
+      location: Tehran, Iran
+      year: 2021
+
+    - title: Introduction to Programming
+      institution: Sharif University of Technology, Alirza Kadivar
+      location: Tehran, Iran
+      year: 2020
+
+
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - year: 2022
+      items: 
+        - Selected as a member of the International Max Planck Research School for the Mechanisms of Mental Function and Dysfunction (5-year MSc/Ph.D. program).
+    - year: 2019
+      items: 
+        - 3rd place of First National EEG Data Analysis Competition with Clinical Applications organized by Iran’s National Brain Mapping Lab(NBML)
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
