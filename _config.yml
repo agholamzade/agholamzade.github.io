@@ -7,8 +7,9 @@ first_name: Ali
 middle_name:
 last_name: Gholamzadeh
 email: ali.gholamzadeh@tuebingen.mpg.de
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-Personal Website
+description: >  I am a master student at the Max Planck Institute for Biological Cybernetic. My research interests include machine learning and computational neuroscience.
+ 
+
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
