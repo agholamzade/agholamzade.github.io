@@ -7,6 +7,10 @@
 - title: Education
   type: time_table
   contents:
+    - title: Ph.D in Computational Neuroscience
+      institution: MPI for Biological Cybernetics
+      location: Tübingen, Germany
+      year: 2024 - present
     - title: M.Sc in Neural Information Processing
       institution: Universität Tübingen, MPI for Biological Cybernetics
       location: Tübingen, Germany
@@ -28,7 +32,7 @@
     - title: Decisons via Optimal Transport
       institution: MPI for Biological Cybernetics, Dr. Noor Sajid and Prof. Peter Dayan
       location: Tübingen, Germany
-      year: 2024 - present
+      year: 2024 
 
     - title: Measure of Meta-Cognitive Sensitivity in Value-Based Decision-Making
       institution: MPI for Biological Cybernetics, Dr. Sara Ershadmanesh and Prof. Peter Dayan
